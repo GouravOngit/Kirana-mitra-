@@ -1,0 +1,6 @@
+{
+  "name": "Kirana Mitra",
+  "description": "Simple, desktop-friendly Kirana Shop Billing, Inventory, Barcode POS, Profit Tracking & GST Reporting Software with Local Database and complete Python Tkinter + SQLite source code.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
